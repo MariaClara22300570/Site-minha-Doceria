@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Knewave&display=swap');
+
+*{
+    margin: 0;
+    border: 0;
+    font-family: "Knewave", system-ui;
+
+}
+
+
+#CabecalhoPag1 {
+    width: 100%;
+    height: 130px;
+    background-color: rgba(104, 79, 57, 1);
+}
+#TextCabecalhoPag1 img{
+    width: 340px;
+    margin-top: 8px;  
+}
+#TextCabecalhoPag1{
+    display: flex;
+    vertical-align: baseline;   
+}
+#QuemSomosPag1 {
+    margin-left: 560px;   
+    font-size: 30px;
+}
+.Text2CabeçalhoPag1 {
+    margin-top: 40px;
+}
+.Text2CabeçalhoPag1 a{
+    font-size: 30px;
+    margin-left: 45px;
+    color: white;
+    text-decoration: none;
+}
+#RodapePag1 {
+    width: 100%;
+    height: 45px;
+    background-color: rgba(104, 79, 57, 1);
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    margin-top: 8px;
+    font-size: 20px;
+}
+.BolosdePotePag1 {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 900;
+    font-family: "Knewave", system-ui;
+    
+}
+.imgsBolodePotePag1 img{
+    width: 409px;
+    height: 307px;
+    border: solid rgb(90, 71, 55);;
+}
+.imgsBolodePotePag1{
+    display: grid;
+    grid-template-columns: 0.5fr 2fr 0.75fr 2fr 0.5fr 2fr 0.5fr;
+    margin-top: 15px;
+    
+}
+#img1Pag1 {
+    grid-column: 2;
+}
+#img2Pag1 {
+    grid-column: 4;
+}
+#img3Pag1 {
+    grid-column: 6;
+}
+.imgs2BolodePotePag1{
+    display: grid;
+    grid-template-columns: 0.5fr 2fr 0.75fr 2fr 0.5fr 2fr 0.5fr;
+    margin-top: 15px;
+    
+}
+#img12Pag1 {
+    grid-column: 2;
+}
+#img22Pag1 {
+    grid-column: 4;
+}
+#img32Pag1 {
+    grid-column: 6;
+}
+.imgs2BolodePotePag1 img{
+    width: 409px;
+    height: 307px;
+    border: solid rgb(90, 71, 55);;
+}
+
+

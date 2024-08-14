@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Knewave&display=swap');
+
+*{
+    margin: 0;
+    border: 0;
+    
+}
+#CabecalhoPag2 {
+    width: 100%;
+    height: 130px;
+    background-color: rgba(104, 79, 57, 1);
+}
+#TextCabecalhoPag2 img{
+    width: 340px;
+    margin-top: 8px; 
+    font-family: "Knewave", system-ui; 
+}
+#TextCabecalhoPag2{
+    display: flex;
+    vertical-align: baseline;   
+}
+#InicioPag2 {
+    margin-left: 560px;   
+    font-size: 30px;
+}
+.Text2CabecalhoPag2 {
+    margin-top: 40px;
+}
+
+.Text2CabecalhoPag2 a{
+    font-size: 30px;
+    margin-left: 45px;
+    color: white;
+    text-decoration: none;
+    font-family: "Knewave", system-ui;
+}
+#RodapePag2 {
+    width: 100%;
+    height: 45px;
+    background-color: rgba(104, 79, 57, 1);
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    margin-top: 8px;
+    font-size: 20px;
+    font-family: "Knewave", system-ui;
+    margin-top: 188px;
+}
+.QuemSomosPag2 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 900;
+    font-family: "Knewave", system-ui;
+    
+}
+#TextPag2 {
+    display: flex;
+    margin-left: 300px;
+    font-size: 40px;
+    margin-top: 100px;
+    
+}
+#TextPag22{
+    border: dashed rgba(104, 79, 57, 1);
+}
+#TextPag2 img{
+    width: 589px;
+    height: 399px;
+}
+.TextPag2 {
+    margin-left: 250px;
+}

@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Knewave&display=swap');
+
+*{
+    margin: 0;
+    border: 0;
+    
+}
+#CabecalhoPag3 {
+    width: 100%;
+    height: 130px;
+    background-color: rgba(104, 79, 57, 1);
+}
+#TextCabecalhoPag3 img{
+    width: 340px;
+    margin-top: 8px; 
+    font-family: "Knewave", system-ui; 
+}
+#TextCabecalhoPag3{
+    display: flex;
+    vertical-align: baseline;   
+}
+#InicioPag3 {
+    margin-left: 560px;   
+    font-size: 30px;
+}
+.Text2CabecalhoPag3 {
+    margin-top: 40px;
+}
+
+.Text2CabecalhoPag3 a{
+    font-size: 30px;
+    margin-left: 45px;
+    color: white;
+    text-decoration: none;
+    font-family: "Knewave", system-ui;
+}
+#RodapePag3 {
+    width: 100%;
+    height: 45px;
+    background-color: rgba(104, 79, 57, 1);
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    margin-top: 8px;
+    font-size: 20px;
+    font-family: "Knewave", system-ui;
+    margin-top: 281px;
+}
+#ContatoPag3 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 900;
+    font-family: "Knewave", system-ui;
+    
+}
+.ContatoPag3 {
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr 2fr 2fr;
+    grid-template-rows: 60px 60px 60px 60px 60px;
+    font-family: "Knewave", system-ui;
+    font-size: 30px;
+    margin-top: 130px;
+}
+#Nome {
+    grid-column: 2;
+    margin-left: 320px;
+}
+#Endereço {
+    grid-column: 2;
+    margin-left: 300px;
+}
+#Email {
+    grid-column: 2;
+    margin-left: 320px;
+}
+
+#Senha {
+    grid-column: 2;
+    margin-left: 315px;
+}
+#Telefone {
+    grid-column: 2;
+    margin-left: 300px;
+}
+#Input1 input{
+    background-color: rgba(104, 79, 57, 1);
+    width: 352px;
+    height: 42px;
+    border-radius: 10px;
+    color: white;
+    font-size: 18px;
+    margin-left: 10px;
+}
+#Input2 input{
+    background-color: rgba(104, 79, 57, 1);
+    width: 352px;
+    height: 42px;
+    border-radius: 10px;
+    color: white;
+    font-size: 18px;
+    margin-left: 10px;
+}
+
+#Input3 input{
+    background-color: rgba(104, 79, 57, 1);
+    width: 352px;
+    height: 42px;
+    border-radius: 10px;
+    color: white;
+    font-size: 18px;
+    margin-left: 10px;
+}
+
+#Input4 input{
+    background-color: rgba(104, 79, 57, 1);
+    width: 352px;
+    height: 42px;
+    border-radius: 10px;
+    color: white;
+    font-size: 18px;
+    margin-left: 10px;
+}
+
+#Input5 input{
+    background-color: rgba(104, 79, 57, 1);
+    width: 352px;
+    height: 42px;
+    border-radius: 10px;
+    color: white;
+    font-size: 18px;
+    margin-left: 10px;   
+}
+
